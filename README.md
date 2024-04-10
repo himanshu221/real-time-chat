@@ -1,4 +1,7 @@
 # Real Time Chat Application
 
-FE - React
-BE - Firebase
+### FE - React
+### State Management - Recoil
+### Auth - Firebase Authentication
+### DB - Firebase Database
+### Object Store - Firebase Storages
